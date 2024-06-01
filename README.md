@@ -1,3 +1,8 @@
+![API_CALL](https://github.com/Kgaking/eng21cs0172/assets/145186016/19f88c16-a1d7-4ed8-811b-1871eaa410a2)
+![UI_of_Fetched_API](https://github.com/Kgaking/eng21cs0172/assets/145186016/0917519d-955a-47e9-b920-088cbfac7627)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
